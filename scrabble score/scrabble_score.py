@@ -1,4 +1,4 @@
-print('Scrabble Score')
+print('Scrabble score')
 #Ask the user to input a word
 #Calculate the score that the word has in the Scrabble game
 #This is the dictionary containing the points each of the different letters give:.
